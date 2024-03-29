@@ -4,3 +4,5 @@ This repository contains two Web Scrapper
 2. Amazon Product Web Scrapper
 
 MINOR PROJECT 2: ALARM CLOCK
+
+MINOR PROJECT 3: BANK MANAGEMENT SYSTEM
